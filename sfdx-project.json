@@ -1,0 +1,26 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "dreamhouse",
+            "versionName": "ver 0.1",
+            "versionNumber": "1.0.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "Sprint1",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://test.salesforce.com",
+    "sourceApiVersion": "45.0",
+    "packageAliases": {
+        "Sprint1": "0Ho2w0000008OIPCA2",
+        "dreamhouse": "0Ho2w0000008OIUCA2",
+        "dreamhouse@1.0.0-1": "04t2w000000e9TLAAY"
+    }
+}
